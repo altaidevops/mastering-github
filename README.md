@@ -1,5 +1,4 @@
-# mastering-github
-removed2
-
-## header2
-### header3
+# This is our first repo
+## We created some files
+- created 10 files
+- commented them 
